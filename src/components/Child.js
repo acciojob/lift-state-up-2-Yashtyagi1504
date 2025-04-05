@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/child.css'
+import '../styles/Child.css';
 
 function Child({value,setValue}){
     function sendingData(e){
