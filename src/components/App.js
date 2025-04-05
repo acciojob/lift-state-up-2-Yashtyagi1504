@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import Child from "./child";
+import child from "./child";
 import {useState} from "react"
 
 const App = () => {
