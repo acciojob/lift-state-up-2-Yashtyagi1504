@@ -11,7 +11,7 @@ const App = () => {
     <div className="parent">
       <h1>Parent Component</h1>
       <p>{value}</p>
-      <Child value = {value} setValue={setValue}></Child>
+      <child value = {value} setValue={setValue}></child>
         {/* Do not remove the main div */}
     </div>
   )
